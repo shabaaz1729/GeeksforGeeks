@@ -1,2 +1,2 @@
 # GeeksforGeeks
-Some solved questions in GeekforGeeks
+Some solved questions in GeeksforGeeks
